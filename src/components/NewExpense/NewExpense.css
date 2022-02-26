@@ -41,3 +41,8 @@
 .new-expense button.alternative:active {
   background-color: #ddb3f8;
 }
+
+.new-expense__add-button {
+  display: flex;
+  justify-content: center;
+}

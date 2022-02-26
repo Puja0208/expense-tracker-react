@@ -29,7 +29,7 @@ function ExpenseForm(props) {
   };
 
   const handleCancelClick = (event) => {
-    props.onCancel(event);
+    props.onCancel();
   };
 
   return (
